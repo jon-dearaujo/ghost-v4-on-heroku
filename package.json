@@ -27,7 +27,8 @@
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.2.4",
     "lyra": "github:TryGhost/lyra#main",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "editorial": "github:TryGhost/Editorial"
   },
   "scripts": {
     "start": "node thelovekesh.js",
